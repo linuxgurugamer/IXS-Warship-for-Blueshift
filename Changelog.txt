@@ -1,0 +1,15 @@
+Changelog
+
+1.0.8
+    Adoption by linuxgurugamer
+    Thanks to user @angel-125 for the following:
+        Updates configs for latest Blueshift:
+            Updates warp rings to latest Blueshift standard
+            Adds ModuleManager config to identify that the IXSWarpshipBlueshift mod exists
+            Updates IXS parts to be included in Blueshift Community Category.
+            Updates FTL tank to use WBIResources instead of deprecated WildBlueTools
+            Updates Waterfall effects to Blueshift standard.
+            Updates warp curves to the latest Blueshift standard.
+
+        KNOWN ISSUE: Waterfall wasn't working before and still appears to not be working with the separate MODEL config. It's unknown if I can make this work properly; Waterfall is very cantankerous. But at least it works fine with Firefly. :)
+
